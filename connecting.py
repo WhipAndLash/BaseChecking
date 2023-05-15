@@ -22,4 +22,5 @@ for row in rows:
     print("")
 
 # Close the database connection
-# conn.close()
+conn.close()
+
